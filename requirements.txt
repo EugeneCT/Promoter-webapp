@@ -120,9 +120,7 @@ python-pptx==0.6.21
 pytube==12.1.0
 pytweening==1.0.4
 pytz==2022.1
-pywin32-ctypes==0.2.0
 
-PyYAML==6.0
 pyzmq==23.2.0
 qtconsole==5.3.2
 QtPy==2.2.0
